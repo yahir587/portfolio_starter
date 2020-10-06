@@ -16,8 +16,6 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 - [ ] Create a new project on Glitch that imports your repo from GitHub.
 
-- [ ] Submit your GitHub repo link and Glitch Project Page links on the Agenda.
-
 ### HTML
 
 - [ ] Add a header with your name to your Portfolio homepage.
