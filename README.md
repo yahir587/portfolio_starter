@@ -8,13 +8,17 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### Set up
 
-- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/1_fKb8tA-WGM5TseeW_HNo69xMmTSsvWVoy7N0ewsQKU/edit#heading=h.xbxb68gln6b2).
+- [ ] Complete the [Project Planning Document](https://docs.google.com/document/d/19kWZMa_uTM0NtrArYVYxH0ozEx4P4U69hoXMJYVq4vY/edit). Make sure you have thought about how you want your portfolio to look and feel, and that you have finished the wireframe! 
 
 - [x] Go to the repository.
 
 - [ ] Fork this repository to your GitHub account.
 
 - [ ] Create a new project on Glitch that imports your repo from GitHub.
+
+- [ ] If there's time, start the Day 2 HTML and CSS tasks. 
+
+## Day 2
 
 ### HTML
 
@@ -38,9 +42,10 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 ### Wrap
 
+- [ ] If you finish early begin Day 3 tasks. 
 - [ ] Submit your work to the session agenda.
 
-## Day 2
+## Day 3
 
 ### Set Up
 
@@ -53,6 +58,17 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 - [ ] Update the title tags of all your new HTML files.
 
 - [ ] Link your CSS file to all of your HTML files.
+
+### Wrap
+
+- [ ] If you have finished early, move on to the Day 4 tasks. 
+- [ ] Push your changes back to your GitHub repo!
+
+## Day 4 
+
+### Reflection
+- [ ] Go back to the rubric/checklist in your project plan. Check off all the tasks you have completed so far. 
+
 
 ### HTML
 
@@ -82,7 +98,7 @@ Add your contact information to your Contact page, including your:
 - [ ] Push your changes back to your GitHub repo!
 
 
-## Project Extensions
+## Project Extensions (If you finish everything above early)
 
 - [ ] Style your nav bar so the links change color/style when your hover over them or when you click them.
 
