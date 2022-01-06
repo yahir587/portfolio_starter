@@ -3,3 +3,26 @@
 h1 {
   color: green;
 }
+
+.about-me {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 30px;
+  
+}
+
+.myself {
+  width: 25%;
+}
+
+.greeting {
+  display: flex;
+  justify-content: flex-end;
+  
+}
+
+.name {
+  display: flex;
+  justify-content: flex-end;
+  
+}
