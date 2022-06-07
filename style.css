@@ -1,18 +1,16 @@
-  width: 400/* CSS files add styling rules to your content */
-
-h1 {
+width: 400 /* CSS files add styling rules to your content */ h1 {
   color: #38465e;
 }
 
-body{
+body {
   background-color: #3d3d3d;
 }
-.speech{
+.speech {
   border: white solid 15px;
 }
 
-.intro{
-  background-color: #EB5E55;
+.intro {
+  background-color: #eb5e55;
   color: #38465e;
   padding: 20px;
 }
@@ -31,24 +29,22 @@ body{
   font-size: 30px;
 }
 
-
-
-.biography{
-  background-color: #33658A;
-  color: #CDE6F5;
-  font-family: 'Nanum Myeongjo', serif;
+.biography {
+  background-color: #33658a;
+  color: #cde6f5;
+  font-family: "Nanum Myeongjo", serif;
   padding: 20px;
 }
 
 .me {
- text-align: right;
- text-align:center;
- margin-left: 700px;
- margin-right: 150px;
- font-size: 30px;
+  text-align: right;
+  text-align: center;
+  margin-left: 700px;
+  margin-right: 150px;
+  font-size: 30px;
 }
 
-.nav-bar{
+.nav-bar {
   display: flex;
   justify-content: space-around;
   font-size: 30px;
@@ -57,7 +53,7 @@ body{
   background-color: #797a7a;
 }
 
-.contacts{
+.contacts {
   color: white;
   border: solid white 15px;
   background-color: #797a7a;
@@ -65,21 +61,92 @@ body{
   font-size: 30px;
 }
 
-.playlist{
+.playlist {
   color: white;
   border: solid white 15px;
   background-color: #2d8745;
   padding: 20px;
   font-size: 3;
-width: 1000px;
+  width: 1000px;
 }
 
-img{
+img {
   width: 700px;
 }
 
-.playlist-project{
+.playlist-project {
   margin-left: 775px;
   font-size: 30px;
 }
 
+.rock-paper-scissors {
+  margin-left: 320px;
+  color: white;
+  border: solid white 15px;
+  background-color: #89e0df;
+  padding: 20px;
+  font-size: 3;
+  width: 1000px;
+}
+
+.rock-paper-scissors-project {
+  margin-left: 750px;
+  font-size: 20px;
+}
+
+.class-project{
+   margin-right: 320px;
+  color: white;
+  border: solid white 15px;
+  background-color: #03339c;
+  padding: 20px;
+  font-size: 3;
+  width: 1000px;
+}
+
+.APUSH-project{
+  margin-left: 775px;
+  font-size: 30px;
+}
+
+.dark-mode{
+    margin-left: 320px;
+  color: white;
+  border: solid white 15px;
+  background-color: #fff2d1;
+  padding: 20px;
+  font-size: 3;
+  width: 1000px;
+}
+.dark-mode-project{
+  margin-left: 775px;
+  font-size: 20px;
+}
+
+.playlist-description{
+  margin-right: 500px;
+}
+
+.APUSH-description{
+  margin-right: 70px;
+}
+
+.darkmode-description{
+  color: black;
+}
+
+.code{
+  margin-left: 80px;
+}
+.play{
+  margin-left: 850px;
+  font-size: 20px;
+}
+
+.dark{
+  margin-left: 60px;
+}
+
+.enviroment{
+  margin-left: 60px;
+}

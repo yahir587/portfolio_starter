@@ -76,16 +76,16 @@ In this unit, coders will review HTML and CSS concepts from the Introduction to 
 
 In your Projects page, create a display of at least 4 of your old coding projects that includes:
 
-    - [ ] Project name
-    - [ ] Link to project GitHub repo
-    - [ ] Link to project live site
-    - [ ] Short description of project including coding languages used
-    - [ ] Hosted screenshot of project
+    - [x] Project name
+    - [x] Link to project GitHub repo
+    - [x] Link to project live site
+    - [] Short description of project including coding languages used
+    - [x] Hosted screenshot of project
 
 Add your contact information to your Contact page, including your:
 
-    - [ ] GitHub account
-    - [ ] Email address
+    - [x] GitHub account
+    - [x] Email address
     - [ ] LinkedIn
     - [ ] Resume
 
